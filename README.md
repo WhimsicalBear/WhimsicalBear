@@ -26,28 +26,3 @@ backend architecture · 3d web · desktop apps
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 </div>
-
-<br>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WhimsicalBear&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhimsicalBear&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</div>
-
-<br>
-
-```text
-  WhimsicalBear@github
-  ─────────────────────
-  role    full stack developer
-  stack   laravel · react · three.js
-  tools   electron · node.js · python
-  data    mysql · mongodb · firebase
-  env     dark mode · cold weather  ʕ •ᴥ• ʔ
-```
-
-<div align="center">
-
-  ![](https://komarev.com/ghpvc/?username=WhimsicalBear&color=161b22&style=flat&label=)
-
-</div>
