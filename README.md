@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82;Full+Stack+Developer" alt="header" />
 
-backend architecture · 3d web · desktop apps
+backend architecture · network architect · desktop apps
 
 <br>
 
@@ -29,7 +29,9 @@ backend architecture · 3d web · desktop apps
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Сила+в+правде&author=Брат" alt="quote" />
+<br>
+
+*"Someone's been eating my porridge and they ate it all up!" cried the Baby bear.*
 
 </div>
 
