@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%90%BB;Full+Stack+Developer" alt="header" />
+<img src="./bear.svg" width="50" alt="" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82;Full+Stack+Developer" alt="header" />
 
 backend architecture · 3d web · desktop apps
 
@@ -26,15 +30,21 @@ backend architecture · 3d web · desktop apps
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WhimsicalBear&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=c9d1d9&text_color=8b949e&ring_color=58a6ff" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=WhimsicalBear&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9&stroke=161b22" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WhimsicalBear&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhimsicalBear&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </div>
 
 <br>
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=WhimsicalBear&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true" />
-</div>
+```text
+  WhimsicalBear@github
+  ─────────────────────
+  role    full stack developer
+  stack   laravel · react · three.js
+  tools   electron · node.js · python
+  data    mysql · mongodb · firebase
+  env     dark mode · cold weather  ʕ •ᴥ• ʔ
+```
 
 <div align="center">
 
