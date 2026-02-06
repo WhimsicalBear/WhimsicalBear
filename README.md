@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header"/>
+
 <div align="center">
 
 <img src="./bear.svg" width="50" alt="" />
@@ -25,4 +27,10 @@ backend architecture · 3d web · desktop apps
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Сила+в+правде&author=Брат" alt="quote" />
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
